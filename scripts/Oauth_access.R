@@ -2,8 +2,8 @@
 
 library(twitteR)
 library(ggplot2)
-library(dplyr)
-library(stringr)
+library(tm)
+library(wordcloud)
 
 
 ## Getting Oauth info 
