@@ -1,6 +1,6 @@
 # Twt_tweet_analysis
 
-This is a project I took up to learn more about text mining and exploratory data analysis. I would like to thank **milohoe** [@kosaalii](https://twitter.com/kosaalii) for letting me perform analysis on her profile. This README will document all the progress as well as steps which one can follow to reproduce the results. 
+This is a project I took up to learn more about text mining and exploratory data analysis. I would like to thank **milohoe** [@kosaalii](https://twitter.com/kosaalii) for letting me use her profile data for this project. This README will document all the progress as well as steps which one can follow to reproduce the results. 
 
 ## Dataset
 
