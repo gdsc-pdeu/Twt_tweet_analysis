@@ -2,7 +2,7 @@
 
 This is a project I took up to learn more about text mining and exploratory data analysis. I would like to thank **milohoe** [@kosaalii](https://twitter.com/kosaalii) for letting me perform analysis on her profile. This README will document all the progress as well as steps which one can follow to reproduce the results. 
 
-## DataSet
+## Dataset
 
 Scraped from [Twitter](https://twitter.com/explore) using the [Twitter API](https://developer.twitter.com/en).
 
