@@ -13,9 +13,9 @@ Scraped from [Twitter](https://twitter.com/explore) using the [Twitter API](http
 
 - [`scripts/getting_data.R`](https://github.com/ThenoobMario/Twt_tweet_analysis/blob/master/scripts/getting_data.R) Gets the data from the Twitter API and stores it in a dataframe.
 
-- [`scipts/text_cleaning.R`](https://github.com/ThenoobMario/Twt_tweet_analysis/blob/master/scripts/text_cleaning.R) Cleans the tweets of elements not necessary for analysis.
+- [`scripts/text_cleaning.R`](https://github.com/ThenoobMario/Twt_tweet_analysis/blob/master/scripts/text_cleaning.R) Cleans the tweets of elements not necessary for analysis.
 
-- [`sripts/like_freq.R`](https://github.com/ThenoobMario/Twt_tweet_analysis/blob/master/scripts/like_freq.R) Steps to make a histogram which shows the frequency of likes on tweets and corresponding retweets.
+- [`scripts/like_freq.R`](https://github.com/ThenoobMario/Twt_tweet_analysis/blob/master/scripts/like_freq.R) Steps to make a histogram which shows the frequency of likes on tweets and corresponding retweets.
 
 - [`scripts/top_term_freq.R`](https://github.com/ThenoobMario/Twt_tweet_analysis/blob/master/scripts/top_term_freq.R) Steps to make a bar graph higlighting frequently used words.
 
