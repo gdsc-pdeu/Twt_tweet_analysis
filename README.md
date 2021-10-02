@@ -50,5 +50,8 @@ The wordcloud is made of the top terms used.
 ## References
 1. [Twitter Data Analysis with R](http://www.rdatamining.com/docs/twitter-analysis-with-r)
 
+# Author
+
+<a href="https://github.com/ThenoobMario">Nachiket Soni</a>
 
 **Contributions are always welcome!** :smile:
